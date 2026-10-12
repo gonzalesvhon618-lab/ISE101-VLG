@@ -1,0 +1,8 @@
+Environment check - October 12, 2026
+
+node -v: Not available; Node.js is not installed or not on PATH.
+npm -v: Not available; npm is not installed or not on PATH.
+npx expo --version: Not run; Node.js/npm are required to run Expo.
+
+Install the current Node.js LTS release, reopen PowerShell, then run these
+commands again and replace the unavailable results with their version output.

@@ -1,5 +1,5 @@
 {
-  "name": "fga-student-task-blog-app",
+  "name": "my-first-app",
   "version": "1.0.0",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
