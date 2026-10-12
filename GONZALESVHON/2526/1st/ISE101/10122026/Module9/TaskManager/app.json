@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "ISE101 Task Manager VLG",
+    "slug": "ise101-task-manager-VLG",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
