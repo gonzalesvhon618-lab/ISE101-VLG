@@ -1,3 +1,0 @@
-Node.js: Not available in the current PATH; version could not be checked.
-npm: Not available in the current PATH; version could not be checked.
-Expo CLI: Could not be checked because Node.js/npm are unavailable.
